@@ -1,3 +1,11 @@
 .DS_Store
 *.pyc
 __pycache__
+
+# Datasets and Large Media Files
+*.mp4
+*.MP4
+*.zip
+*.pt
+*.png
+*.jpg
