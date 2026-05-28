@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+# test: ../test/images
+
+nc: 1
+names: ['Objects']
+
+# roboflow:
+#   workspace: adir
+#   project: automax-levg9
+#   version: 1
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/adir/automax-levg9/dataset/1

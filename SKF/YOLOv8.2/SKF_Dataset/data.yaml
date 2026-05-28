@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+# test: /test/images
+
+nc: 1
+names: ['Object']
+
+# roboflow:
+#   workspace: bramha
+#   project: skf-rings
+#   version: 3
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/bramha/skf-rings/dataset/3

@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+# test: /test/images
+
+nc: 1
+names: ['Objects']
+
+# roboflow:
+#   workspace: try-myrsg
+#   project: skf_output_frames
+#   version: 1
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/try-myrsg/skf_output_frames/dataset/1
