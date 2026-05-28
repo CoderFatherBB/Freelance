@@ -9,3 +9,13 @@ __pycache__
 *.pt
 *.png
 *.jpg
+*.avi
+*.XML
+**/runs/
+**/labels/
+*.pb
+**/Model/
+*.joblib
+*.save
+*.cache
+**/Models/
