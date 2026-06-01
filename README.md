@@ -1,61 +1,40 @@
 <div align="center">
-  <h1 align="center">Freelance</h1>
+  <h1>Freelance Project Work</h1>
+  <p><strong>Client-oriented proof-of-concepts, training notebooks, datasets, APIs, and computer vision experiments.</strong></p>
   <p align="center">
-    <strong>Codebase and resources for freelance client projects.</strong>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/github/license/CoderFatherBB/Freelance?style=flat-square&color=007ec6" alt="License">
-    <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Freelance?style=flat-square&color=007ec6" alt="Repo Size">
-    <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Freelance?style=flat-square&color=007ec6" alt="Last Commit">
-  </p>
+  <img src="https://img.shields.io/github/repo-size/CoderFatherBB/Freelance?style=flat-square&color=007ec6" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/CoderFatherBB/Freelance?style=flat-square&color=007ec6" alt="Last Commit">
+</p>
 </div>
 
----
+## About
 
-## 📖 Overview
+This repository collects freelance and client-facing work across multiple organizations. The folders include problem statements, proofs of concept, training notebooks, datasets, APIs, and object-detection outputs.
 
-Welcome to the **Freelance** repository. Codebase and resources for freelance client projects.
+## Repository Map
+
+- `Provilac/`: problem statement, POC, training, API, and data.
+- `TATA/`: POC material.
+- `Automax Robotics/`: training, dataset photos, and video-to-photo notebook.
+- `Bajaj/`: training notebooks, datasets, and pretrained model experiments.
+- `SKF/`: paper and YOLOv8 output work.
 
 
+## Getting Started
 
----
+Clone the repository:
 
-## 🚀 Getting Started
+```bash
+git clone https://github.com/CoderFatherBB/Freelance.git
+cd Freelance
+```
 
-### Prerequisites
+Open the folder or notebook you want to explore. Most directories are self-contained, so start from the local `README.md`, source file, notebook, or project folder for that topic.
 
-Make sure you have the necessary environment setup to run or build the project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
 
-### Installation & Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CoderFatherBB/Freelance.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Freelance
-   ```
-3. Run or execute the relevant files as per the language standards.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/CoderFatherBB/Freelance/issues).
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>
